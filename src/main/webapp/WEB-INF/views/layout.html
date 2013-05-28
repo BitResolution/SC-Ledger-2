@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Site Layout</title>
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/>
+    <meta name="description" content="SC-ledger tool for stock performance reporting"/>
+    <meta name="keywords" content="solo capital stock report"/>
+    <meta name="robots" content="index, follow"/>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" href="/resources/style/base.css"/>
+    <script type="text/javascript" src="/resources/scripts/jquery.js"></script>
+</head>
+<body>
+<header>
+    <div id="header">
+        <div class="logo">
+            <h1><a href="dashboard.html" th:attr="href=@{/dashboard}">SC-Ledger</a></h1>
+        </div>
+    </div>
+</header>
+<section layout:fragment="content">
+    <p>Page content goes here</p>
+</section>
+<footer>
+    <div id="footer"></div>
+</footer>
+</body>
+</html>
