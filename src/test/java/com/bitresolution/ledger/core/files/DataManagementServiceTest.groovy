@@ -1,4 +1,4 @@
-package com.bitresolution.ledger.core
+package com.bitresolution.ledger.core.files
 
 import com.bitresolution.ledger.core.files.DataManagementService
 import com.bitresolution.ledger.core.files.ReportFileReaderFactory

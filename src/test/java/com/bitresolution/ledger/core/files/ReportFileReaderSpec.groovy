@@ -1,6 +1,8 @@
-package com.bitresolution.ledger.core.ledger
+package com.bitresolution.ledger.core.files
 
 import com.bitresolution.ledger.core.files.ReportFileReader
+import com.bitresolution.ledger.core.ledger.Entry
+import com.bitresolution.ledger.core.ledger.Report
 import com.google.common.collect.Lists
 import org.joda.time.DateTime
 import spock.lang.Specification
