@@ -32,8 +32,7 @@ public class LedgerWebApplication extends WebMvcConfigurationSupport {
     @Override
     @Bean
     public RequestMappingHandlerAdapter requestMappingHandlerAdapter() {
-        RequestMappingHandlerAdapter adapter = super.requestMappingHandlerAdapter();
-        return adapter;
+        return super.requestMappingHandlerAdapter();
     }
 
     @Override

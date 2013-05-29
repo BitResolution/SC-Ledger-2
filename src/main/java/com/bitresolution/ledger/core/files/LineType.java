@@ -14,11 +14,11 @@ enum LineType {
         this.prefix = prefix;
     }
 
-    public String getPrefix() {
+    String getPrefix() {
         return prefix;
     }
 
-    public int getPrefixLength() {
+    int getPrefixLength() {
         return prefix.length();
     }
 

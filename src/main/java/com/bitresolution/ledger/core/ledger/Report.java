@@ -61,7 +61,7 @@ public class Report {
     public static class Builder {
         private DateTime periodOfReport;
         private DateTime filingDate;
-        private List<Entry> entries;
+        private final List<Entry> entries;
 
         public Builder() {
             this.entries = new ArrayList<Entry>();
