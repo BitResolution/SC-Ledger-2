@@ -1,46 +1,70 @@
 package com.bitresolution.ledger.core.files;
 
+import com.google.common.base.Predicate;
 import org.apache.commons.lang3.StringUtils;
 
+import java.util.Arrays;
+
+import static com.bitresolution.ledger.core.files.LineType.ColumnMarkersPredicate.isColumnMarkers;
+import static com.bitresolution.ledger.core.files.LineType.StartsWithPredicate.startsWith;
+
 enum LineType {
-    PERIOD_OF_REPORT("CONFORMED PERIOD OF REPORT:"),
-    REPORT_FILING_DATE("FILED AS OF DATE:"),
-    ENTRY(""),
-    SKIPPABLE("");
+    PERIOD_OF_REPORT(startsWith("CONFORMED PERIOD OF REPORT:")),
+    REPORT_FILING_DATE(startsWith("FILED AS OF DATE:")),
+    COLUMN_MARKERS(isColumnMarkers()),
+    SKIPPABLE(null);
 
-    private final String prefix;
+    private final Predicate<String> matcher;
 
-    LineType(String prefix) {
-        this.prefix = prefix;
+    LineType(Predicate<String> matcher) {
+        this.matcher = matcher;
     }
 
-    String getPrefix() {
-        return prefix;
-    }
-
-    int getPrefixLength() {
-        return prefix.length();
+    boolean matches(String line) {
+        return matcher.apply(line);
     }
 
     public static LineType of(String line) {
-        if(StringUtils.isBlank(line)
-                || line.startsWith(" ")
-                || line.startsWith("NAME OF ISSUER") //column header
-                || line.startsWith("<S>")
-                || line.startsWith("</TABLE>")
-                || line.startsWith("</TEXT>")
-                || line.startsWith("</DOCUMENT>")
-                || line.startsWith("</SEC-DOCUMENT>")) {
-            return SKIPPABLE;
-        }
-        else if(line.startsWith(PERIOD_OF_REPORT.getPrefix())) {
+        if(PERIOD_OF_REPORT.matches(line)) {
             return PERIOD_OF_REPORT;
         }
-        else if(line.startsWith(REPORT_FILING_DATE.getPrefix())) {
+        else if(REPORT_FILING_DATE.matches(line)) {
             return REPORT_FILING_DATE;
         }
         else {
             return SKIPPABLE;
+        }
+    }
+
+    public static class StartsWithPredicate implements Predicate<String> {
+        private final String prefix;
+
+        public StartsWithPredicate(String prefix) {
+            this.prefix = prefix;
+        }
+
+        @Override
+        public boolean apply(String line) {
+            return line.startsWith(prefix);
+        }
+
+        public static StartsWithPredicate startsWith(String prefix) {
+            return new StartsWithPredicate(prefix);
+        }
+    }
+
+    public static class ColumnMarkersPredicate implements Predicate<String> {
+        private static final String[] MARKERS = {
+                "<S>", "<C>", "<C>", "<C>", "<C>", "<C>", "<C>", "<C>", "<C>", "<C>", "<C>", "<C>"};
+
+        @Override
+        public boolean apply(String line) {
+            String[] markers = line.split("\\s+");
+            return Arrays.equals(MARKERS, markers);
+        }
+
+        public static ColumnMarkersPredicate isColumnMarkers() {
+            return new ColumnMarkersPredicate();
         }
     }
 }
