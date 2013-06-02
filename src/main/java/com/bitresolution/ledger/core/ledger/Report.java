@@ -25,18 +25,13 @@ public class Report {
     @Type(type="org.jadira.usertype.dateandtime.joda.PersistentDateTime")
     private DateTime filingDate;
 
-    @Transient
-    private List<Entry> entries;
-
     public Report() {
-        this.entries = new ArrayList<Entry>();
     }
 
-    public Report(Long id, DateTime periodOfReport, DateTime filingDate, List<Entry> entries) {
+    public Report(Long id, DateTime periodOfReport, DateTime filingDate) {
         this.id = id;
         this.periodOfReport = periodOfReport;
         this.filingDate = filingDate;
-        this.entries = Lists.newArrayList(entries);
     }
 
     public Long getId() {
@@ -63,21 +58,9 @@ public class Report {
         this.filingDate = filingDate;
     }
 
-    public List<Entry> getEntries() {
-        return entries;
-    }
-
-    public void setEntries(List<Entry> entries) {
-        this.entries = entries;
-    }
-
-    public void addEntry(Entry entry) {
-        entries.add(entry);
-    }
-
     @Override
     public int hashCode() {
-        return Objects.hashCode(id, periodOfReport, filingDate, entries);
+        return Objects.hashCode(id, periodOfReport, filingDate);
     }
 
     @Override
@@ -89,7 +72,7 @@ public class Report {
             return false;
         }
         final Report other = (Report) obj;
-        return Objects.equal(this.id, other.id) && Objects.equal(this.periodOfReport, other.periodOfReport) && Objects.equal(this.filingDate, other.filingDate) && Objects.equal(this.entries, other.entries);
+        return Objects.equal(this.id, other.id) && Objects.equal(this.periodOfReport, other.periodOfReport) && Objects.equal(this.filingDate, other.filingDate);
     }
 
     @Override
@@ -98,7 +81,6 @@ public class Report {
                 .add("id", id)
                 .add("periodOfReport", periodOfReport)
                 .add("filingDate", filingDate)
-                .add("entries", entries)
                 .toString();
     }
 }

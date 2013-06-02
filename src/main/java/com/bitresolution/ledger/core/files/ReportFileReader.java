@@ -40,39 +40,11 @@ public class ReportFileReader implements Readable {
                     break;
 
                 case ENTRY:
-                    parseEntry(line, lineType, report);
-                    break;
-
                 case SKIPPABLE:
                     break;
             }
         }
         return report;
-    }
-
-    private void parseEntry(String line, LineType type, Report report) {
-        try {
-            String[] values = line.split("[\\s]{2,}");
-            Entry.Builder entryBuilder = new Entry.Builder();
-            entryBuilder.setNameOfIssuer(values[0]);
-            entryBuilder.setTitleOfClass(values[1]);
-            entryBuilder.setCusip(values[2]);
-            entryBuilder.setMarketValue(values[3]);
-            entryBuilder.setAmount(values[4]);
-            entryBuilder.setCall(values[5]);
-            entryBuilder.setInvestmentDescretion(values[6]);
-            entryBuilder.setOtherManagers("");
-            entryBuilder.setVotingAuthoritySole(values[7]);
-            entryBuilder.setShared(values[8]);
-            entryBuilder.setNone(values[9]);
-            Entry entry = entryBuilder.build();
-
-            report.addEntry(entry);
-            log.debug("Line [{}] - parsed entry: {}", reader.getLineNumber(), entry);
-        }
-        catch (ArrayIndexOutOfBoundsException e) {
-            log.error("Error parsing entry line [{}]: {}", reader.getLineNumber(), line);
-        }
     }
 
     private void parseFilingDate(String line, LineType type, Report report) {

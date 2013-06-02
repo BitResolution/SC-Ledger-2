@@ -40,7 +40,7 @@ enum LineType {
             return REPORT_FILING_DATE;
         }
         else {
-            return ENTRY;
+            return SKIPPABLE;
         }
     }
 }
