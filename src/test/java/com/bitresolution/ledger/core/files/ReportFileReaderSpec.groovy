@@ -19,7 +19,7 @@ class ReportFileReaderSpec extends Specification {
         Report report = reader.readReport()
 
         then:
-        assert report.periodOfReport == new DateTime("20120331")
+        assert report.periodOfReport == new DateTime(2012, 3, 31, 0, 0, 0, 0)
     }
 
     def "should create report with correct FilingDate"() {
@@ -31,7 +31,7 @@ class ReportFileReaderSpec extends Specification {
         Report report = reader.readReport()
 
         then:
-        assert report.filingDate == new DateTime("20120515")
+        assert report.filingDate == new DateTime(2012, 5, 15, 0, 0, 0, 0)
     }
 
     def "should create report with multiple entries"() {
@@ -45,8 +45,8 @@ class ReportFileReaderSpec extends Specification {
         then:
         assert report == new Report(
                 null,
-                new DateTime("20120331-01-01T00:00:00.000Z"),
-                new DateTime("20120515-01-01T00:00:00.000Z")
+                new DateTime(2012, 3, 31, 0, 0, 0, 0),
+                new DateTime(2012, 5, 15, 0, 0, 0, 0)
         )
     }
 }
