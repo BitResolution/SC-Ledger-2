@@ -1,6 +1,7 @@
 package com.bitresolution.ledger.core.files;
 
 import com.bitresolution.ledger.core.ledger.Report;
+import org.apache.commons.lang3.StringUtils;
 import org.joda.time.DateTime;
 import org.joda.time.format.DateTimeFormat;
 import org.joda.time.format.DateTimeFormatter;
@@ -32,13 +33,23 @@ public class ReportFileReader implements Readable {
         State state = State.READING_METADATA;
         String line;
         while((line = reader.readLine()) != null) {
+            log.trace("Line[{}] content: {}", reader.getLineNumber(), line);
             switch(state) {
                 case READING_METADATA:
                     state = processMetadata(report, state, line);
                     break;
                 case READ_COLUMN_MARKS:
                 case READING_ENTRIES:
-                    log.debug("line[{}] parsing for entry data");
+                    if(StringUtils.isBlank(line)) {
+                        log.debug("line[{}] is blank", reader.getLineNumber());
+                        break;
+                    }
+                    if(line.startsWith("</TABLE>")) {
+                        log.debug("line[{}] found entry data terminator", reader.getLineNumber());
+                        state = State.READING_METADATA;
+                        break;
+                    }
+                    log.debug("line[{}] parsing for entry data", reader.getLineNumber());
                     break;
             }
         }
@@ -47,7 +58,6 @@ public class ReportFileReader implements Readable {
 
     private State processMetadata(Report report, State state, String line) {
         LineType lineType = LineType.of(line);
-        log.trace("Line[{}] content: {}", reader.getLineNumber(), line);
         switch(lineType) {
             case PERIOD_OF_REPORT:
                 parsePeriodOfReport(line, report);

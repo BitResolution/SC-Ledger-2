@@ -31,6 +31,9 @@ enum LineType {
         else if(REPORT_FILING_DATE.matches(line)) {
             return REPORT_FILING_DATE;
         }
+        else if(COLUMN_MARKERS.matches(line)) {
+            return COLUMN_MARKERS;
+        }
         else {
             return SKIPPABLE;
         }
