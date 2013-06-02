@@ -25,7 +25,7 @@ public class ReportFileReader implements Readable {
     }
 
     public Report readReport() throws IOException {
-        Report.Builder report = new Report.Builder();
+        Report report = new Report();
         String line;
         while((line = reader.readLine()) != null) {
             LineType lineType = LineType.of(line);
@@ -47,10 +47,10 @@ public class ReportFileReader implements Readable {
                     break;
             }
         }
-        return report.build();
+        return report;
     }
 
-    private void parseEntry(String line, LineType type, Report.Builder report) {
+    private void parseEntry(String line, LineType type, Report report) {
         try {
             String[] values = line.split("[\\s]{2,}");
             Entry.Builder entryBuilder = new Entry.Builder();
@@ -75,14 +75,14 @@ public class ReportFileReader implements Readable {
         }
     }
 
-    private void parseFilingDate(String line, LineType type, Report.Builder report) {
+    private void parseFilingDate(String line, LineType type, Report report) {
         String value = line.substring(type.getPrefixLength()).trim();
         DateTime filingDate = new DateTime(value);
         report.setFilingDate(filingDate);
         log.debug("Line [{}] - parsed 'filing date': {}", reader.getLineNumber(), filingDate);
     }
 
-    private void parsePeriodOfReport(String line, LineType type, Report.Builder report) {
+    private void parsePeriodOfReport(String line, LineType type, Report report) {
         String value = line.substring(type.getPrefixLength()).trim();
         DateTime periodOfReport = new DateTime(value);
         report.setPeriodOfReport(periodOfReport);
