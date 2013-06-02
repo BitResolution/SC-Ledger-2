@@ -1,0 +1,245 @@
+<SEC-DOCUMENT>0000905148-12-001191.txt : 20120515
+<SEC-HEADER>0000905148-12-001191.hdr.sgml : 20120515
+<ACCEPTANCE-DATETIME>20120515161738
+ACCESSION NUMBER:		0000905148-12-001191
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120331
+FILED AS OF DATE:		20120515
+DATE AS OF CHANGE:		20120515
+EFFECTIVENESS DATE:		20120515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BlueCrest Capital Management LLP
+		CENTRAL INDEX KEY:			0001363542
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11935
+		FILM NUMBER:		12844941
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BLUECREST HOUSE, GLATEGNY ESPLANADE
+		CITY:			ST. PETER PORT
+		STATE:			Y7
+		ZIP:			GY1 1WR
+		BUSINESS PHONE:		0044 207 664 1950
+
+	MAIL ADDRESS:	
+		STREET 1:		BLUECREST HOUSE, GLATEGNY ESPLANADE
+		CITY:			ST. PETER PORT
+		STATE:			Y7
+		ZIP:			GY1 1WR
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BlueCrest Capital Management LTD
+		DATE OF NAME CHANGE:	20060519
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>efc12-458_fm13fhr.txt
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+
+                                    Form 13F
+
+                               Form 13F COVER PAGE
+
+
+Report for the Calendar Year or Quarter Ended:  March 31, 2012
+                                                --------------
+
+Check here if Amendment [ ]: Amendment Number:
+                                                ------------------
+
+         This Amendment (Check only one):   | | is a restatement
+                                            | | adds new holdings entries
+
+
+Institutional Investment Manager Filing this Report:
+
+Name:         BLUECREST CAPITAL MANAGEMENT LLP
+Address:      BlueCrest House, Glategny Esplanade,
+              St Peter Port
+              Guernsey, GY1 1WR
+
+Form 13F File Number: 028-11935
+                      ---------
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:           Margot Marshall
+Title:          Head of Compliance
+Phone:          + 44 20 3180 3040
+
+Signature, Place and Date of Signing:
+
+
+    /s/ Margot Marshall                    London, UK           May 15, 2012
+-------------------------------      ---------------------    -----------------
+           [Signature]                    [City, State]            [Date]
+
+
+
+Report Type (Check only one):
+
+|X|  13F HOLDINGS REPORT.  (Check here if all holdings of this reporting manager
+     are reported in this report.)
+
+| |  13F NOTICE. (Check here if no holdings reported are in this report, and all
+     holdings are reported by other reporting manager(s).)
+
+| |  13F COMBINATION  REPORT.  (Check here if a portion of the holdings for this
+     reporting manager are reported in this report and a portion are reported by
+     other reporting manager(s).)
+
+<PAGE>
+
+                             FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+
+Number of Other Included Managers:                                 0
+                                                          -------------------
+
+Form 13F Information Table Entry Total:                           93
+                                                          -------------------
+
+Form 13F Information Table Value Total:                        $933,537
+                                                          -------------------
+                                                            (in thousands)
+
+List of Other Included Managers:
+
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+None
+<PAGE>
+<TABLE>
+<CAPTION>
+                                               BLUECREST CAPITAL MANAGEMENT LLP
+                                                  FORM 13F INFORMATION TABLE
+                                                 Quarter Ended March 31, 2012
+
+------------------------------------------------------------------------------------------------------------------------------------
+                                                         VALUE    SHRS OR   SH/ PUT/ INVESTMENT  OTHER     VOTING AUTHORITY
+       NAME OF ISSUER         TITLE OF CLASS    CUSIP   (x$1000)  PRN AMT   PRN CALL DISCRETION MANAGERS   SOLE    SHARED    NONE
+------------------------------------------------------------------------------------------------------------------------------------
+<S>                          <C>              <C>        <C>      <C>        <C> <C>  <C>        <C>      <C>       <C>      <C>
+A123 SYS INC                 NOTE 3.750% 4/1  03739TAA6      337   1,000,000 PRN      OTHER                                  NONE
+AES CORP                     COM              00130H105      660      50,474 SH       OTHER                          50,474
+ALCOA INC                    COM              013817101    4,872     486,200 SH       OTHER                         486,200
+ALCOA INC                    COM              013817101   10,020   1,000,000 SH  PUT  OTHER                       1,000,000
+ALTERA CORP                  COM              021441100      940      23,600 SH       OTHER                          23,600
+ANGLOGOLD ASHANTI LTD        SPONSORED ADR    035128206      255       6,900 SH       OTHER                           6,900
+APPLE INC                    COM              037833100    1,199       2,000 SH       OTHER                           2,000
+APPLE INC                    COM              037833100  136,098     227,000 SH  CALL OTHER                         227,000
+ASSURED GUARANTY LTD         COM              G0585R106    6,426     389,000 SH       OTHER                         389,000
+BAKER HUGHES INC             COM              057224107    4,622     110,200 SH       OTHER                         110,200
+BARCLAYS BK PLC              IPATH S&P MT ETN 06740C519    4,746     102,658 SH       OTHER                         102,658
+BARCLAYS BK PLC              IPTH S&P VIX NEW 06740C261    8,390     500,000 SH  PUT  OTHER                         500,000
+BEAZER HOMES USA INC         COM              07556Q105    1,527     469,766 SH       OTHER                         469,766
+BEST BUY INC                 COM              086516101      969      40,900 SH       OTHER                          40,900
+BRISTOL MYERS SQUIBB CO      COM              110122108      645      19,100 SH       OTHER                          19,100
+CISCO SYS INC                COM              17275R102   31,725   1,500,000 SH  CALL OTHER                       1,500,000
+CME GROUP INC                COM              12572Q105    1,736       6,000 SH       OTHER                           6,000
+CORNING INC                  COM              219350105    5,632     400,000 SH  CALL OTHER                         400,000
+CUMMINS INC                  COM              231021106      432       3,600 SH       OTHER                           3,600
+D R HORTON INC               COM              23331A109    1,789     117,900 SH       OTHER                         117,900
+EBAY INC                     COM              278642103    4,629     125,440 SH       OTHER                         125,440
+EBAY INC                     COM              278642103    9,225     250,000 SH  PUT  OTHER                         250,000
+ENERNOC INC                  COM              292764107      190      26,447 SH       OTHER                          26,447
+FOSTER WHEELER AG            COM              H27178104      271      11,900 SH       OTHER                          11,900
+GENERAL CABLE CORP DEL NEW   COM              369300108      375      12,900 SH       OTHER                          12,900
+GENERAL MTRS CO              JR PFD CNV SRB   37045V209    1,758      42,019 PRN      OTHER                                  NONE
+GENWORTH FINL INC            COM CL A         37247D106    2,809     337,644 SH       OTHER                         337,644
+GOODYEAR TIRE & RUBR CO      PFD CONV         382550309    1,460      35,234 PRN      OTHER                                  NONE
+HALLIBURTON CO               COM              406216101    2,303      69,400 SH       OTHER                          69,400
+HEALTH CARE REIT INC         NOTE 4.750% 7/1  42217KAQ9   17,417  15,585,000 PRN      OTHER                                  NONE
+HESS CORP                    COM              42809H107    4,445      75,400 SH       OTHER                          75,400
+HONEYWELL INTL INC           COM              438516106      433       7,100 SH       OTHER                           7,100
+HOST HOTELS & RESORTS INC    COM              44107P104      485      29,512 SH       OTHER                          29,512
+HOVNANIAN ENTERPRISES INC    CL A             442487203      245     100,000 SH       OTHER                         100,000
+INTL PAPER CO                COM              460146103      200       5,700 SH       OTHER                           5,700
+ISHARES INC                  MSCI HONG KONG   464286871      698      40,000 SH  PUT  OTHER                          40,000
+ISHARES INC                  MSCI BRAZIL      464286400    1,293      20,000 SH       OTHER                          20,000
+ISHARES INC                  MSCI BRAZIL      464286400    1,940      30,000 SH  PUT  OTHER                          30,000
+ISHARES TR                   MSCI EMERG MKT   464287234    2,577      60,000 SH  PUT  OTHER                          60,000
+ISHARES TR                   HIGH YLD CORP    464288513    4,274      47,115 SH       OTHER                          47,115
+ISHARES TR                   DJ US REAL EST   464287739   15,039     241,398 SH       OTHER                         241,398
+ISHARES TR                   S&P GLB100INDX   464287572   32,540     511,720 SH       OTHER                         511,720
+ISHARES TR                   DJ US REAL EST   464287739   65,415   1,050,000 SH  PUT  OTHER                       1,050,000
+LILLY ELI & CO               COM              532457108      310       7,700 SH       OTHER                           7,700
+LINEAR TECHNOLOGY CORP       COM              535678106      290       8,600 SH       OTHER                           8,600
+LOUISIANA PAC CORP           COM              546347105    4,628     495,000 SH       OTHER                         495,000
+MARATHON OIL CORP            COM              565849106    1,753      55,300 SH       OTHER                          55,300
+MARKET VECTORS ETF TR        JR GOLD MINERS E 57060U589    3,705     150,915 SH       OTHER                         150,915
+MARKET VECTORS ETF TR        GOLD MINER ETF   57060U100    6,193     125,000 SH       OTHER                         125,000
+MARKET VECTORS ETF TR        GOLD MINER ETF   57060U100   74,310   1,500,000 SH  CALL OTHER                       1,500,000
+METLIFE INC                  COM              59156R108      437      11,700 SH       OTHER                          11,700
+MICROSOFT CORP               COM              594918104    4,360     135,200 SH       OTHER                         135,200
+MICROSOFT CORP               COM              594918104   32,255   1,000,000 SH  CALL OTHER                       1,000,000
+MICROSOFT CORP               COM              594918104   58,059   1,800,000 SH  PUT  OTHER                       1,800,000
+MOSAIC CO NEW                COM              61945C103   22,116     400,000 SH  CALL OTHER                         400,000
+NATIONAL OILWELL VARCO INC   COM              637071101    1,581      19,900 SH       OTHER                          19,900
+NORFOLK SOUTHERN CORP        COM              655844108    4,476      68,000 SH       OTHER                          68,000
+NVIDIA CORP                  COM              67066G104    2,309     150,000 SH       OTHER                         150,000
+OLD REP INTL CORP            NOTE 3.750% 3/1  680223AH7    2,471   2,500,000 PRN      OTHER                                  NONE
+PENNEY J C INC               COM              708160106    5,052     142,600 SH       OTHER                         142,600
+POWERSHS DB MULTI SECT COMM  DB AGRICULT FD   73936B408    8,992     320,000 SH  PUT  OTHER                         320,000
+PUBLIC SVC ENTERPRISE GROUP  COM              744573106      248       8,100 SH       OTHER                           8,100
+RALPH LAUREN CORP            CL A             751212101      244       1,400 SH       OTHER                           1,400
+RESEARCH IN MOTION LTD       COM              760975102    2,065     140,500 SH  PUT  OTHER                         140,500
+ROCKWELL AUTOMATION INC      COM              773903109    1,498      18,800 SH       OTHER                          18,800
+SELECT SECTOR SPDR TR        SBI INT-ENERGY   81369Y506    8,330     116,100 SH       OTHER                         116,100
+SELECT SECTOR SPDR TR        SBI INT-FINL     81369Y605   15,795   1,000,000 SH  CALL OTHER                       1,000,000
+SELECT SECTOR SPDR TR        SBI INT-ENERGY   81369Y506   21,525     300,000 SH  CALL OTHER                         300,000
+SELECT SECTOR SPDR TR        SBI INT-FINL     81369Y605   21,923   1,388,000 SH       OTHER                       1,388,000
+SELECT SECTOR SPDR TR        SBI CONS DISCR   81369Y407   22,545     500,000 SH  PUT  OTHER                         500,000
+SELECT SECTOR SPDR TR        SBI INT-FINL     81369Y605   78,975   5,000,000 SH  PUT  OTHER                       5,000,000
+SOLAZYME INC                 COM              83415T101    4,103     280,481 SH       OTHER                         280,481
+SONY CORP                    ADR NEW          835699307      206       9,903 SH       OTHER                           9,903
+SPDR GOLD TRUST              GOLD SHS         78463V107    8,847      54,571 SH       OTHER                          54,571
+SPDR GOLD TRUST              GOLD SHS         78463V107   32,424     200,000 SH  CALL OTHER                         200,000
+SPDR GOLD TRUST              GOLD SHS         78463V107   32,424     200,000 SH  PUT  OTHER                         200,000
+SPDR SERIES TRUST            S&P HOMEBUILD    78464A888    4,676     219,000 SH       OTHER                         219,000
+SPDR SERIES TRUST            S&P HOMEBUILD    78464A888   10,675     500,000 SH  PUT  OTHER                         500,000
+STRYKER CORP                 COM              863667101      813      14,645 SH       OTHER                          14,645
+SUNOCO INC                   COM              86764P109      256       6,700 SH       OTHER                           6,700
+TEXAS INSTRS INC             COM              882508104      820      24,400 SH       OTHER                          24,400
+TIDEWATER INC                COM              886423102      363       6,716 SH       OTHER                           6,716
+TIFFANY & CO NEW             COM              886547108    2,807      40,600 SH       OTHER                          40,600
+TIME WARNER INC              COM NEW          887317303    1,080      28,600 SH       OTHER                          28,600
+UNISYS CORP                  PFD SER A 6.25%  909214405      308       5,000 PRN      OTHER                                  NONE
+US BANCORP DEL               COM NEW          902973304      295       9,300 SH       OTHER                           9,300
+VALERO ENERGY CORP NEW       COM              91913Y100    3,386     131,400 SH       OTHER                         131,400
+VIACOM INC NEW               CL B             92553P201    1,334      28,100 SH       OTHER                          28,100
+VOLCANO CORPORATION          NOTE 2.875% 9/0  928645AA8    2,688   2,250,000 PRN      OTHER                                  NONE
+WHIRLPOOL CORP               COM              963320106      223       2,900 SH       OTHER                           2,900
+WYNN RESORTS LTD             COM              983134107    4,146      33,200 SH       OTHER                          33,200
+ZIMMER HLDGS INC             COM              98956P102    5,400      84,000 SH  CALL OTHER                          84,000
+ZIMMER HLDGS INC             COM              98956P102   16,777     261,000 SH  PUT  OTHER                         261,000
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

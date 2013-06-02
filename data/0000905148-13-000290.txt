@@ -1,0 +1,198 @@
+<SEC-DOCUMENT>0000905148-13-000290.txt : 20130214
+<SEC-HEADER>0000905148-13-000290.hdr.sgml : 20130214
+<ACCEPTANCE-DATETIME>20130214161229
+ACCESSION NUMBER:		0000905148-13-000290
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20121231
+FILED AS OF DATE:		20130214
+DATE AS OF CHANGE:		20130214
+EFFECTIVENESS DATE:		20130214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BlueCrest Capital Management LLP
+		CENTRAL INDEX KEY:			0001363542
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11935
+		FILM NUMBER:		13613911
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BLUECREST HOUSE, GLATEGNY ESPLANADE
+		CITY:			ST. PETER PORT
+		STATE:			Y7
+		ZIP:			GY1 1WR
+		BUSINESS PHONE:		0044 207 664 1950
+
+	MAIL ADDRESS:	
+		STREET 1:		BLUECREST HOUSE, GLATEGNY ESPLANADE
+		CITY:			ST. PETER PORT
+		STATE:			Y7
+		ZIP:			GY1 1WR
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BlueCrest Capital Management LTD
+		DATE OF NAME CHANGE:	20060519
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>efc13-153_fm13fhr.txt
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+
+                                    Form 13F
+
+                               Form 13F COVER PAGE
+
+
+Report for the Calendar Year or Quarter Ended:  December 31, 2012
+                                                -----------------
+
+Check here if Amendment [ ]: Amendment Number:
+                                                ------------------
+
+         This Amendment (Check only one):   | | is a restatement
+                                            | | adds new holdings entries
+
+
+Institutional Investment Manager Filing this Report:
+
+Name:         BLUECREST CAPITAL MANAGEMENT LLP
+Address:      BlueCrest House, Glategny Esplanade
+              St Peter Port
+              Guernsey, GY1 1WR
+
+Form 13F File Number: 028-11935
+                      ---------
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:           Margot Marshall
+Title:          Head of Compliance
+Phone:          + 44 20 3180 3040
+
+Signature, Place and Date of Signing:
+
+
+    /s/ Margot Marshall                    London, UK         February 14, 2013
+-------------------------------      ---------------------    -----------------
+           [Signature]                    [City, State]            [Date]
+
+
+
+Report Type (Check only one):
+
+|X|  13F HOLDINGS REPORT.  (Check here if all holdings of this reporting manager
+     are reported in this report.)
+
+| |  13F NOTICE. (Check here if no holdings reported are in this report, and all
+     holdings are reported by other reporting manager(s).)
+
+| |  13F COMBINATION  REPORT.  (Check here if a portion of the holdings for this
+     reporting manager are reported in this report and a portion are reported by
+     other reporting manager(s).)
+
+<PAGE>
+
+                             FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+
+Number of Other Included Managers:                                 0
+                                                          -------------------
+
+Form 13F Information Table Entry Total:                           46
+                                                          -------------------
+
+Form 13F Information Table Value Total:                        $668,441
+                                                          -------------------
+                                                            (in thousands)
+
+List of Other Included Managers:
+
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+None
+<PAGE>
+<TABLE>
+<CAPTION>
+                                               BLUECREST CAPITAL MANAGEMENT LLP
+                                                  FORM 13F INFORMATION TABLE
+                                                Quarter Ended December 31, 2012
+
+-----------------------------------------------------------------------------------------------------------------------------
+                                                         VALUE    SHRS OR   SH/ PUT/ INVESTMENT  OTHER     VOTING AUTHORITY
+       NAME OF ISSUER         TITLE OF CLASS    CUSIP   (x$1000)  PRN AMT   PRN CALL DISCRETION MANAGERS SOLE   SHARED   NONE
+-----------------------------------------------------------------------------------------------------------------------------
+<S>                          <C>              <C>        <C>     <C>        <C> <C>  <C>        <C>      <C>  <C>        <C>
+AETNA INC NEW                COM              00817Y108    1,064     22,975 SH       OTHER                        22,975
+ALLERGAN INC                 COM              018490102      966     10,528 SH       OTHER                        10,528
+AMERISOURCEBERGEN CORP       COM              03073E105    1,066     24,685 SH       OTHER                        24,685
+ANADARKO PETE CORP           COM              032511107   22,293    300,000 SH  CALL OTHER                       300,000
+APPLE INC                    COM              037833100   45,501     85,500 SH  CALL OTHER                        85,500
+ASSURED GUARANTY LTD         COM              G0585R106   39,039  2,743,451 SH       OTHER                     2,743,451
+BARCLAYS BK PLC              IPATH S&P500 VIX 06740C188   38,172  1,200,000 SH  PUT  OTHER                     1,200,000
+CATERPILLAR INC DEL          COM              149123101   17,922    200,000 SH  PUT  OTHER                       200,000
+CHEVRON CORP NEW             COM              166764100    1,081     10,000 SH       OTHER                        10,000
+CITIGROUP INC                COM NEW          172967424      589     14,900 SH  CALL OTHER                        14,900
+CME GROUP INC                COM              12572Q105    1,521     30,000 SH       OTHER                        30,000
+CUMMINS INC                  COM              231021106    1,183     10,919 SH       OTHER                        10,919
+DELL INC                     COM              24702R101    9,126    900,000 SH  CALL OTHER                       900,000
+DOVER CORP                   COM              260003108    1,130     17,193 SH       OTHER                        17,193
+ENERNOC INC                  COM              292764107      311     26,447 SH       OTHER                        26,447
+EXXON MOBIL CORP             COM              30231G102    8,655    100,000 SH  PUT  OTHER                       100,000
+EXXON MOBIL CORP             COM              30231G102      866     10,000 SH       OTHER                        10,000
+FIRST SOLAR INC              COM              336433107    3,086    100,000 SH  CALL OTHER                       100,000
+FREEPORT-MCMORAN COPPER & GO COM              35671D857   10,260    300,000 SH  CALL OTHER                       300,000
+ILLINOIS TOOL WKS INC        COM              452308109    1,011     16,633 SH       OTHER                        16,633
+IMPERIAL OIL LTD             COM NEW          453038408      923     21,459 SH       OTHER                        21,459
+ISHARES TR                   MSCI EMERG MKT   464287234   15,966    360,000 SH       OTHER                       360,000
+ISHARES TR                   S&P GLB100INDX   464287572   17,027    266,220 SH       OTHER                       266,220
+KOHLS CORP                   COM              500255104   12,894    300,000 SH  CALL OTHER                       300,000
+LOUISIANA PAC CORP           COM              546347105    6,762    350,000 SH  PUT  OTHER                       350,000
+LOUISIANA PAC CORP           COM              546347105    6,758    349,800 SH       OTHER                       349,800
+MARATHON OIL CORP            COM              565849106      986     32,154 SH       OTHER                        32,154
+MARKET VECTORS ETF TR        JR GOLD MINERS E 57060U589    2,988    150,915 SH       OTHER                       150,915
+MASTERCARD INC               CL A             57636Q104    1,018      2,072 SH       OTHER                         2,072
+MATTEL INC                   COM              577081102      975     26,624 SH       OTHER                        26,624
+MCKESSON CORP                COM              58155Q103    1,059     10,924 SH       OTHER                        10,924
+MONSANTO CO NEW              COM              61166W101    1,032     10,900 SH       OTHER                        10,900
+NEWMONT MINING CORP          COM              651639106   18,576    400,000 SH  CALL OTHER                       400,000
+NOBLE ENERGY INC             COM              655044105    1,017     10,000 SH       OTHER                        10,000
+PHILLIPS 66                  COM              718546104    1,328     25,000 SH       OTHER                        25,000
+PRECISION CASTPARTS CORP     COM              740189105    1,130      5,965 SH       OTHER                         5,965
+RANGE RES CORP               COM              75281A109    6,283    100,000 SH       OTHER                       100,000
+SAP AG                       SPON ADR         803054204    1,122     13,956 SH       OTHER                        13,956
+SCHLUMBERGER LTD             COM              806857108      970     14,000 SH       OTHER                        14,000
+SELECT SECTOR SPDR TR        SBI INT-FINL     81369Y605   16,390  1,000,000 SH  CALL OTHER                     1,000,000
+SOLAZYME INC                 COM              83415T101    2,205    280,481 SH       OTHER                       280,481
+TJX COS INC NEW              COM              872540109      965     22,740 SH       OTHER                        22,740
+U S AIRWAYS GROUP INC        COM              90341W108  337,500 25,000,000 SH  CALL OTHER                    25,000,000
+U S G CORP                   COM NEW          903293405    5,614    200,000 SH  CALL OTHER                       200,000
+WESTERN UN CO                COM              959802109      747     54,854 SH       OTHER                        54,854
+XEROX CORP                   COM              984121103    1,364    200,000 SH  CALL OTHER                       200,000
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

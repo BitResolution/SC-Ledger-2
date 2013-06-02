@@ -1,0 +1,273 @@
+<SEC-DOCUMENT>0001140361-13-021026.txt : 20130515
+<SEC-HEADER>0001140361-13-021026.hdr.sgml : 20130515
+<ACCEPTANCE-DATETIME>20130515161408
+ACCESSION NUMBER:		0001140361-13-021026
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20130331
+FILED AS OF DATE:		20130515
+DATE AS OF CHANGE:		20130515
+EFFECTIVENESS DATE:		20130515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BlueCrest Capital Management LLP
+		CENTRAL INDEX KEY:			0001363542
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11935
+		FILM NUMBER:		13847215
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BLUECREST HOUSE, GLATEGNY ESPLANADE
+		CITY:			ST. PETER PORT
+		STATE:			Y7
+		ZIP:			GY1 1WR
+		BUSINESS PHONE:		0044 207 664 1950
+
+	MAIL ADDRESS:	
+		STREET 1:		BLUECREST HOUSE, GLATEGNY ESPLANADE
+		CITY:			ST. PETER PORT
+		STATE:			Y7
+		ZIP:			GY1 1WR
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BlueCrest Capital Management LTD
+		DATE OF NAME CHANGE:	20060519
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>form13fhr.txt
+<DESCRIPTION>NONE
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+                               Form 13F COVER PAGE
+Report for the Calendar Year or Quarter Ended: 3/31/2013
+Check here if Amendment []; Amendment Number:
+                                               -------
+This Amendment (Check only one.):               [] is a restatement.
+                                                [] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+
+Name:      BLUECREST CAPITAL MANAGEMENT LLP
+
+Address:   BlueCrest House, Glategny Esplanade
+           St Peter Port
+           Guernsey, GY1 1WR
+
+
+Form 13F File Number: 028-11935
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this submission.
+
+Persons Signing this Report on Behalf of Reporting Manager:
+
+Name:   Margot Marshall
+Title:  Head of Compliance
+Phone:  +44 20 3180 3040
+
+Signature,  Place,  and  Date  of  Signing:
+
+/s/ Margot Marshall                London, UK                         5/15/2013
+---------------------------------  ---------------------------------  ----------
+[Signature]                        [City, State]                      [Date]
+
+
+
+Report  Type  (Check  only  one):
+
+[X]     13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+        manager are reported in this report.)
+
+[ ]     13F NOTICE. (Check here if no holdings reported are in this report,
+        and all holdings are reported by other reporting manager(s).)
+
+[ ]     13F COMBINATION REPORT. (Check here if a portion of the holdings for
+        this reporting manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+
+
+
+<PAGE>
+                              Form 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:                    0
+
+Form 13F Information Table Entry Total:             107
+
+Form 13F Information Table Value Total:  $    1,118,444
+                                         --------------
+                                         (In Thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+NONE
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+          COLUMN 1               COLUMN 2     COLUMN 3  COLUMN 4      COLUMN 5        COLUMN 6  COLUMN 7       COLUMN 8
+---------------------------- ---------------- --------- -------- ------------------- ---------- -------- --------------------
+                                                         VALUE    SHRS OR   SH/ PUT/ INVESTMENT  OTHER     VOTING AUTHORITY
+       NAME OF ISSUER         TITLE OF CLASS    CUSIP   (x$1000)  PRN AMT   PRN CALL DISCRETION MANAGERS SOLE   SHARED   NONE
+---------------------------- ---------------- --------- -------- ---------- --- ---- ---------- -------- ---- ---------- ----
+<S>                          <C>              <C>       <C>      <C>        <C> <C>  <C>        <C>      <C>  <C>        <C>
+ACCENTURE PLC IRELAND        SHS CLASS A      G1151C101    1,033     13,600 SH       OTHER                  0     13,600    0
+ACCURAY INC                  NOTE 3.500% 2/0  004397AC9    6,461  6,000,000 PRN      OTHER                  0          0 NONE
+ACCURAY INC                  COM              004397105      186     40,000 SH  CALL OTHER                  0     40,000    0
+AFFYMETRIX INC               NOTE 4.000% 7/0  00826TAH1    1,064  1,000,000 PRN      OTHER                  0          0 NONE
+AK STL CORP                  NOTE 5.000%11/1  001546AP5    2,863  3,000,000 PRN      OTHER                  0          0 NONE
+ALEXION PHARMACEUTICALS INC  COM              015351109    2,764     30,000 SH  CALL OTHER                  0     30,000    0
+ALLERGAN INC                 COM              018490102    1,175     10,528 SH       OTHER                  0     10,528    0
+AMERICAN EXPRESS CO          COM              025816109      992     14,700 SH  PUT  OTHER                  0     14,700    0
+AMERISOURCEBERGEN CORP       COM              03073E105    1,270     24,685 SH       OTHER                  0     24,685    0
+AMETEK INC NEW               COM              031100100    1,041     24,000 SH       OTHER                  0     24,000    0
+AMTRUST FINANCIAL SERVICES I NOTE 5.500%12/1  032359AC5    2,881  2,000,000 PRN      OTHER                  0          0 NONE
+ANADARKO PETE CORP           COM              032511107    1,312     15,000 SH       OTHER                  0     15,000    0
+APPLE INC                    COM              037833100    5,622     12,700 SH  CALL OTHER                  0     12,700    0
+ARCH COAL INC                COM              039380100    4,344    800,000 SH  CALL OTHER                  0    800,000    0
+ASSURED GUARANTY LTD         COM              G0585R106   36,793  1,785,180 SH       OTHER                  0  1,785,180    0
+AXIALL CORP                  COM              05463D100    1,989     32,000 SH       OTHER                  0     32,000    0
+BAKER HUGHES INC             COM              057224107    2,321     50,000 SH  PUT  OTHER                  0     50,000    0
+BANK OF AMERICA CORPORATION  COM              060505104    6,090    500,000 SH  CALL OTHER                  0    500,000    0
+BARCLAYS BK PLC              IPATH S&P500 VIX 06740C188   60,750  3,000,000 SH  PUT  OTHER                  0  3,000,000    0
+BEAZER HOMES USA INC         COM NEW          07556Q881    4,223    266,599 SH       OTHER                  0    266,599    0
+BLOCK H & R INC              COM              093671105    4,413    150,000 SH  PUT  OTHER                  0    150,000    0
+CANADIAN NATL RY CO          COM              136375102    1,021     10,000 SH       OTHER                  0     10,000    0
+CARDINAL HEALTH INC          COM              14149Y108      916     22,000 SH       OTHER                  0     22,000    0
+CATERPILLAR INC DEL          COM              149123101   17,394    200,000 SH       OTHER                  0    200,000    0
+CEMEX SAB DE CV              NOTE 3.750% 3/1  151290BC6   12,229  9,000,000 PRN      OTHER                  0          0 NONE
+CHESAPEAKE ENERGY CORP       COM              165167107    4,082    200,000 SH  CALL OTHER                  0    200,000    0
+CME GROUP INC                COM              12572Q105    1,842     30,000 SH       OTHER                  0     30,000    0
+COBALT INTL ENERGY INC       NOTE 2.625%12/0  19075FAA4    2,251  2,000,000 PRN      OTHER                  0          0 NONE
+CONTINENTAL RESOURCES INC    COM              212015101      869     10,000 SH       OTHER                  0     10,000    0
+CVS CAREMARK CORPORATION     COM              126650100    1,087     19,766 SH       OTHER                  0     19,766    0
+DEVON ENERGY CORP NEW        COM              25179M103   16,926    300,000 SH  CALL OTHER                  0    300,000    0
+DOVER CORP                   COM              260003108    1,253     17,193 SH       OTHER                  0     17,193    0
+E M C CORP MASS              NOTE 1.750%12/0  268648AM4    4,497  3,000,000 PRN      OTHER                  0          0 NONE
+ENCORE CAP GROUP INC         NOTE 3.000%11/2  292554AC6    4,549  3,964,000 PRN      OTHER                  0          0 NONE
+ENERNOC INC                  COM              292764107      459     26,447 SH       OTHER                  0     26,447    0
+ENPRO INDS INC               DBCV 3.938%10/1  29355XAB3    9,205  5,695,000 SH       OTHER                  0  5,695,000    0
+EOG RES INC                  COM              26875P101    1,281     10,000 SH       OTHER                  0     10,000    0
+FASTENAL CO                  COM              311900104    1,012     19,700 SH       OTHER                  0     19,700    0
+FORD MTR CO DEL              COM PAR $0.01    345370860   11,835    900,000 SH  CALL OTHER                  0    900,000    0
+FORESTAR GROUP INC           NOTE 3.750% 3/0  346232AB7    3,518  3,000,000 PRN      OTHER                  0          0 NONE
+FREEPORT-MCMORAN COPPER & GO COM              35671D857    8,440    255,000 SH       OTHER                  0    255,000    0
+FREEPORT-MCMORAN COPPER & GO COM              35671D857    9,930    300,000 SH  CALL OTHER                  0    300,000    0
+GAMESTOP CORP NEW            CL A             36467W109    8,391    300,000 SH  CALL OTHER                  0    300,000    0
+GENERAL ELECTRIC CO          COM              369604103    5,780    250,000 SH  PUT  OTHER                  0    250,000    0
+GENUINE PARTS CO             COM              372460105    1,115     14,300 SH       OTHER                  0     14,300    0
+HALLIBURTON CO               COM              406216101    2,425     60,000 SH  PUT  OTHER                  0     60,000    0
+HEWLETT PACKARD CO           COM              428236103    4,663    195,600 SH  PUT  OTHER                  0    195,600    0
+HONEYWELL INTL INC           COM              438516106    3,768     50,000 SH  PUT  OTHER                  0     50,000    0
+ISHARES TR                   FTSE CHINA25 IDX 464287184    9,594    260,000 SH       OTHER                  0    260,000    0
+ISHARES TR                   RUSSELL 2000     464287655    2,598     27,560 SH       OTHER                  0     27,560    0
+ISHARES TR                   S&P GLB100INDX   464287572   18,047    266,220 SH       OTHER                  0    266,220    0
+ISHARES TR                   RUSSELL 2000     464287655   28,962    306,700 SH  PUT  OTHER                  0    306,700    0
+JUNIPER NETWORKS INC         COM              48203R104    5,562    300,000 SH  PUT  OTHER                  0    300,000    0
+LORILLARD INC                COM              544147101    1,009     25,000 SH       OTHER                  0     25,000    0
+LOWES COS INC                COM              548661107    7,584    200,000 SH  CALL OTHER                  0    200,000    0
+LOWES COS INC                COM              548661107    7,584    200,000 SH  PUT  OTHER                  0    200,000    0
+LYONDELLBASELL INDUSTRIES N  SHS - A -        N53745100      633     10,000 SH       OTHER                  0     10,000    0
+M/I HOMES INC                NOTE 3.000% 3/0  55292PAB1    6,181  6,000,000 PRN      OTHER                  0          0 NONE
+MAGNA INTL INC               COM              559222401    1,145     19,500 SH       OTHER                  0     19,500    0
+MARATHON PETE CORP           COM              56585A102    1,344     15,000 SH       OTHER                  0     15,000    0
+</TABLE>
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+          COLUMN 1               COLUMN 2     COLUMN 3  COLUMN 4      COLUMN 5        COLUMN 6  COLUMN 7       COLUMN 8
+---------------------------- ---------------- --------- -------- ------------------- ---------- -------- --------------------
+                                                         VALUE    SHRS OR   SH/ PUT/ INVESTMENT  OTHER     VOTING AUTHORITY
+       NAME OF ISSUER         TITLE OF CLASS    CUSIP   (x$1000)  PRN AMT   PRN CALL DISCRETION MANAGERS SOLE   SHARED   NONE
+---------------------------- ---------------- --------- -------- ---------- --- ---- ---------- -------- ---- ---------- ----
+<S>                          <C>              <C>       <C>      <C>        <C> <C>  <C>        <C>      <C>  <C>        <C>
+MARKET VECTORS ETF TR        JR GOLD MINERS E 57060U589    2,526    150,915 SH       OTHER                  0    150,915    0
+MCKESSON CORP                COM              58155Q103    1,179     10,924 SH       OTHER                  0     10,924    0
+MICROCHIP TECHNOLOGY INC     SDCV 2.125%12/1  595017AB0    7,136  5,000,000 SH       OTHER                  0  5,000,000    0
+MICRON TECHNOLOGY INC        NOTE 1.875% 8/0  595112AR4    2,349  2,000,000 PRN      OTHER                  0          0 NONE
+MICRON TECHNOLOGY INC        COM              595112103    7,980    800,000 SH  CALL OTHER                  0    800,000    0
+MOLINA HEALTHCARE INC        COM              60855R100      469     15,200 SH  CALL OTHER                  0     15,200    0
+MORGAN STANLEY               COM NEW          617446448    8,792    400,000 SH  PUT  OTHER                  0    400,000    0
+NATIONAL OILWELL VARCO INC   COM              637071101   42,450    600,000 SH  CALL OTHER                  0    600,000    0
+NAVISTAR INTL CORP NEW       NOTE 3.000%10/1  63934EAL2    1,034  1,000,000 PRN      OTHER                  0          0 NONE
+NOBLE ENERGY INC             COM              655044105    1,376     11,895 SH       OTHER                  0     11,895    0
+NORFOLK SOUTHERN CORP        COM              655844108    9,897    128,400 SH  PUT  OTHER                  0    128,400    0
+NUCOR CORP                   COM              670346105   36,920    800,000 SH  PUT  OTHER                  0    800,000    0
+OMNICARE INC                 NOTE 3.750% 4/0  681904AP3    1,701  1,500,000 PRN      OTHER                  0          0 NONE
+PARKER HANNIFIN CORP         COM              701094104      999     10,912 SH       OTHER                  0     10,912    0
+PBF ENERGY INC               CL A             69318G106      372     10,000 SH       OTHER                  0     10,000    0
+PENNEY J C INC               COM              708160106    6,044    400,000 SH  CALL OTHER                  0    400,000    0
+PHILLIPS 66                  COM              718546104      560      8,000 SH       OTHER                  0      8,000    0
+PIONEER NAT RES CO           COM              723787107    1,864     15,000 SH       OTHER                  0     15,000    0
+PROSHARES TR                 PSHS ULTSH 20YRS 74347B201   26,284    400,000 SH  CALL OTHER                  0    400,000    0
+RADIAN GROUP INC             NOTE 2.250% 3/0  750236AN1    6,067  5,000,000 PRN      OTHER                  0          0 NONE
+ROYAL GOLD INC               COM              780287108      710     10,000 SH  PUT  OTHER                  0     10,000    0
+SCHLUMBERGER LTD             COM              806857108      749     10,000 SH       OTHER                  0     10,000    0
+SCHLUMBERGER LTD             COM              806857108    3,745     50,000 SH  PUT  OTHER                  0     50,000    0
+SELECT SECTOR SPDR TR        SBI INT-ENERGY   81369Y506   10,113    127,500 SH       OTHER                  0    127,500    0
+SELECT SECTOR SPDR TR        SBI CONS DISCR   81369Y407    9,741    183,800 SH  PUT  OTHER                  0    183,800    0
+SELECT SECTOR SPDR TR        SBI INT-FINL     81369Y605    5,463    300,000 SH  PUT  OTHER                  0    300,000    0
+SINA CORP                    ORD              G81477104    7,289    150,000 SH  CALL OTHER                  0    150,000    0
+SOLAZYME INC                 COM              83415T101    2,191    280,481 SH       OTHER                  0    280,481    0
+SPDR GOLD TRUST              GOLD SHS         78463V107    7,724     50,000 SH  CALL OTHER                  0     50,000    0
+SPDR GOLD TRUST              GOLD SHS         78463V107   12,219     79,100 SH  PUT  OTHER                  0     79,100    0
+SPDR S&P 500 ETF TR          TR UNIT          78462F103    3,533     22,568 SH       OTHER                  0     22,568    0
+SPDR S&P 500 ETF TR          TR UNIT          78462F103    7,834     50,000 SH  PUT  OTHER                  0     50,000    0
+TELEFLEX INC                 NOTE 3.875% 8/0  879369AA4    4,384  3,000,000 PRN      OTHER                  0          0 NONE
+THERAVANCE INC               NOTE 2.125% 1/1  88338TAB0    1,102  1,000,000 PRN      OTHER                  0          0 NONE
+TOWER GROUP INTL LTD         COM              G8988C105    3,690    200,000 SH       OTHER                  0    200,000    0
+U S AIRWAYS GROUP INC        COM              90341W108  424,250 25,000,000 SH  CALL OTHER                  0 25,000,000    0
+U S AIRWAYS GROUP INC        COM              90341W108    3,946    232,500 SH  PUT  OTHER                  0    232,500    0
+U S G CORP                   COM NEW          903293405      793     30,000 SH       OTHER                  0     30,000    0
+UNITED PARCEL SERVICE INC    CL B             911312106    7,731     90,000 SH  PUT  OTHER                  0     90,000    0
+UNITED STATES OIL FUND LP    UNITS            91232N108    1,738     50,000 SH  CALL OTHER                  0     50,000    0
+UNITED STATES OIL FUND LP    UNITS            91232N108   29,534    849,900 SH  PUT  OTHER                  0    849,900    0
+UNITED THERAPEUTICS CORP DEL NOTE 1.000% 9/1  91307CAF9    6,879  5,000,000 PRN      OTHER                  0          0 NONE
+VERISIGN INC                 SDCV 3.250% 8/1  92343EAD4   11,942  8,040,000 SH       OTHER                  0  8,040,000    0
+VERIZON COMMUNICATIONS INC   COM              92343V104    1,302     26,500 SH  PUT  OTHER                  0     26,500    0
+WESTERN UN CO                COM              959802109      825     54,854 SH       OTHER                  0     54,854    0
+WESTLAKE CHEM CORP           COM              960413102    1,590     17,000 SH       OTHER                  0     17,000    0
+XEROX CORP                   COM              984121103      860    100,000 SH  CALL OTHER                  0    100,000    0
+</TABLE>
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
