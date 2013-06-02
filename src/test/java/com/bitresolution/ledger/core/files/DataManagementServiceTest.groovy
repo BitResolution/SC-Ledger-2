@@ -1,13 +1,11 @@
 package com.bitresolution.ledger.core.files
 
-import com.bitresolution.ledger.core.files.DataManagementService
-import com.bitresolution.ledger.core.files.ReportFileReaderFactory
+import com.bitresolution.UnitTest
 import com.bitresolution.ledger.core.ledger.Report
-import com.bitresolution.ledger.core.files.ReportFileReader
 import com.bitresolution.ledger.core.ledger.ReportService
 import spock.lang.Specification
 
-
+@org.junit.experimental.categories.Category(UnitTest.class)
 class DataManagementServiceTest extends Specification {
 
     def "should be able to upload a report file"() {

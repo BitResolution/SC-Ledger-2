@@ -41,11 +41,33 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>2.12.4</version>
                 <configuration>
+                    <groups>com.bitresolution.UnitTest</groups>
+                    <excludedGroups>com.bitresolution.IntegrationTest</excludedGroups>
                     <includes>
                         <include>**/*Test.*</include>
                         <include>**/*Spec.*</include>
                     </includes>
                 </configuration>
+            </plugin>
+
+            <plugin>
+                <artifactId>maven-failsafe-plugin</artifactId>
+                <version>2.12.4</version>
+                <configuration>
+                    <groups>com.bitresolution.IntegrationTest</groups>
+                    <excludedGroups>com.bitresolution.UnitTest</excludedGroups>
+                    <includes>
+                        <include>**/*Test.*</include>
+                        <include>**/*Spec.*</include>
+                    </includes>
+                </configuration>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>integration-test</goal>
+                        </goals>
+                    </execution>
+                </executions>
             </plugin>
 
             <plugin>
@@ -194,8 +216,8 @@
         </dependency>
         <dependency>
             <groupId>org.hibernate</groupId>
-            <artifactId>hibernate-annotations</artifactId>
-            <version>3.5.6-Final</version>
+            <artifactId>hibernate-core</artifactId>
+            <version>4.1.4.Final</version>
         </dependency>
         <dependency>
             <groupId>org.jadira.usertype</groupId>
@@ -345,6 +367,12 @@
         <dependency>
             <groupId>org.spockframework</groupId>
             <artifactId>spock-core</artifactId>
+            <version>0.7-groovy-2.0</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.spockframework</groupId>
+            <artifactId>spock-spring</artifactId>
             <version>0.7-groovy-2.0</version>
             <scope>test</scope>
         </dependency>

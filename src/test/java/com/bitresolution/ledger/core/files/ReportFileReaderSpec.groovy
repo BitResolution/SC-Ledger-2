@@ -1,13 +1,13 @@
 package com.bitresolution.ledger.core.files
 
-import com.bitresolution.ledger.core.files.ReportFileReader
+import com.bitresolution.UnitTest
 import com.bitresolution.ledger.core.ledger.Entry
 import com.bitresolution.ledger.core.ledger.Report
 import com.google.common.collect.Lists
 import org.joda.time.DateTime
 import spock.lang.Specification
 
-
+@org.junit.experimental.categories.Category(UnitTest.class)
 class ReportFileReaderSpec extends Specification {
 
     def "should create report with correct PeriodOfReport"() {
@@ -67,6 +67,7 @@ class ReportFileReaderSpec extends Specification {
 
         then:
         assert report == new Report(
+                null,
                 new DateTime("20120331-01-01T00:00:00.000Z"),
                 new DateTime("20120515-01-01T00:00:00.000Z"),
                 Lists.newArrayList(

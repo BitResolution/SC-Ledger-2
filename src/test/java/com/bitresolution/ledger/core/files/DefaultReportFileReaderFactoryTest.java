@@ -1,6 +1,8 @@
 package com.bitresolution.ledger.core.files;
 
+import com.bitresolution.UnitTest;
 import org.junit.Test;
+import org.junit.experimental.categories.Category;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -9,6 +11,7 @@ import static org.hamcrest.CoreMatchers.*;
 import static org.junit.Assert.assertThat;
 import static org.junit.Assume.assumeThat;
 
+@Category(UnitTest.class)
 public class DefaultReportFileReaderFactoryTest {
 
     @Test
