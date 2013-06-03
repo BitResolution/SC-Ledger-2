@@ -1,9 +1,8 @@
 package com.bitresolution.ledger.core.files
 
 import com.bitresolution.UnitTest
-import com.bitresolution.ledger.core.ledger.Entry
+
 import com.bitresolution.ledger.core.ledger.Report
-import com.google.common.collect.Lists
 import org.joda.time.DateTime
 import spock.lang.Specification
 
@@ -46,7 +45,8 @@ class ReportFileReaderSpec extends Specification {
         assert report == new Report(
                 null,
                 new DateTime(2012, 3, 31, 0, 0, 0, 0),
-                new DateTime(2012, 5, 15, 0, 0, 0, 0)
+                new DateTime(2012, 5, 15, 0, 0, 0, 0),
+                []
         )
     }
 }
